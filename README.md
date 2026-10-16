@@ -4,6 +4,9 @@ A simple chess engine we built to play with.
 
 It's trained to play moderate, human-like moves, so you get a real game instead of getting crushed.
 
+On [lichess.org](https://lichess.org/@/CareChess-Bot/playing) we play with the currently strongest version, beyond the opensource one.
+
+
 ## Getting started
 
 ```
